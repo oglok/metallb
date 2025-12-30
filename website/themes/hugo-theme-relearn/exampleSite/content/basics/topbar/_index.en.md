@@ -85,7 +85,7 @@ While hiding a button dependend on the screen size can be configured with the ab
 
 For example, the _print_ button in its default configuration should only be displayed if print support was configured. This is done in your button template by checking the conditions first before displaying the button (see [`layouts/partials/topbar/button/print.html`](https://github.com/McShelby/hugo-theme-relearn/blob/main/layouts/partials/topbar/button/print.html)).
 
-Another prefered condition for hiding a button is, if the displayed overlay is empty. This is the case for the _toc_ (see [`layouts/partials/topbar/button/toc.html`](https://github.com/McShelby/hugo-theme-relearn/blob/main/layouts/partials/topbar/button/toc.html)) aswell as the _more_ button (see [`layouts/partials/topbar/button/more.html`](https://github.com/McShelby/hugo-theme-relearn/blob/main/layouts/partials/topbar/button/more.html)) and controlled by the parameter `onempty`.
+Another preferred condition for hiding a button is, if the displayed overlay is empty. This is the case for the _toc_ (see [`layouts/partials/topbar/button/toc.html`](https://github.com/McShelby/hugo-theme-relearn/blob/main/layouts/partials/topbar/button/toc.html)) aswell as the _more_ button (see [`layouts/partials/topbar/button/more.html`](https://github.com/McShelby/hugo-theme-relearn/blob/main/layouts/partials/topbar/button/more.html)) and controlled by the parameter `onempty`.
 
 This parameter can have one of the following values:
 

@@ -380,7 +380,7 @@
 - [**feature**] tabs: add title and icon option [#552](https://github.com/McShelby/hugo-theme-relearn/issues/552)
 - [**feature**] shortcodes: add style option to mimic code box color scheme [#551](https://github.com/McShelby/hugo-theme-relearn/issues/551)
 - [**feature**] tabs: support color options [#550](https://github.com/McShelby/hugo-theme-relearn/issues/550)
-- [**feature**] favicon: add light & dark option for OS's prefered color scheme [#549](https://github.com/McShelby/hugo-theme-relearn/issues/549)
+- [**feature**] favicon: add light & dark option for OS's preferred color scheme [#549](https://github.com/McShelby/hugo-theme-relearn/issues/549)
 
 ### Fixes
 
